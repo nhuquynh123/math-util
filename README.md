@@ -8,7 +8,8 @@ git
 ### Have fun with my code and feel free to give me any comments
 
 ####Connect me via:
-[FaceBook](https://www.facebook.com/profile.php?id=100029084556275)  [Email](mailto: quynhdtnse140541@fpt.edu.vn)
+[FaceBook](https://www.facebook.com/profile.php?id=100029084556275)  
+[Email](mailto: quynhdtnse140541@fpt.edu.vn)
 
 #### © 2021 nhuquynh
 

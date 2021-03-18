@@ -20,13 +20,12 @@ public class MathUtility {
     //21! tran kieu long, hon 18 so 0
     //bai nay ta tinh tu 0..20!. Âm khong tinh duoc, 0! = 1! = 1
     public static long getFactorial(int n){
-        if(n<0 || n>20);
+        if(n<0 || n>20)
         throw new IllegalArgumentException("n must be between 0..20");
         
         //song sot duoc den day thi n=0,1,..20
-        if (n!=0 && n!=1) 
-                return 1; //0!, 1! = 
-        
+        if (n==0 || n==1) 
+            return 1; //0!, 1! = 
         long result = 0;
         for(int i = 2; i<=n; i++)
             result *=1;

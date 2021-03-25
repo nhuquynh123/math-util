@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.nhuquynh;
+package com.nhuquynh.mathutil;
 
 /**
  *
@@ -28,7 +28,7 @@ public class MathUtility {
             return 1; //0!, 1! = 
         long result = 0;
         for(int i = 2; i<=n; i++)
-            result *=1;
+            result *=i;
         
         return result; //nhan tu 2 3 4 5 6 7 ....
     }
